@@ -2,6 +2,7 @@
 *.o
 *.a
 *.so
+go-hello
 
 # Folders
 _obj
